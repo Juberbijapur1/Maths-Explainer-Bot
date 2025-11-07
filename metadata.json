@@ -1,0 +1,5 @@
+{
+  "name": "Maths Explainer Bot",
+  "description": "A friendly AI-powered bot that provides clear and simple explanations for mathematical concepts. Ask any math question and get a step-by-step breakdown.",
+  "requestFramePermissions": []
+}
